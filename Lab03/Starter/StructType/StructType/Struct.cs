@@ -25,7 +25,11 @@ namespace MyWorkSpaceStruct
 
             goldAccount.accType = AccountType.Checking;
             goldAccount.accBal = (decimal)3200.00;
-            goldAccount.accNo = 123;
+            //goldAccount.accNo = 123;
+
+            //--.            
+            Console.WriteLine("Enter account number: ");
+            goldAccount.accNo = long.Parse( Console.ReadLine() );
 
             //--.
             Console.WriteLine("Acct Number {0}", goldAccount.accNo);
