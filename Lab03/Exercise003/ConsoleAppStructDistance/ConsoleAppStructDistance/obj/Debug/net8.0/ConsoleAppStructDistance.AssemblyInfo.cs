@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleAppStructDistance")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e93a2d6a76584e3885e9c85ea3a3a92878f25e2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78df8ec28de6fde599783540392c2e109e093d52")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleAppStructDistance")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleAppStructDistance")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
