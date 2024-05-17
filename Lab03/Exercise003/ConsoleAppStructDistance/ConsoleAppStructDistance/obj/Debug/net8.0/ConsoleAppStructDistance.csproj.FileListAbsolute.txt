@@ -1,0 +1,15 @@
+D:\Labs\LabWork02\Lab03\Exercise003\ConsoleAppStructDistance\ConsoleAppStructDistance\bin\Debug\net8.0\ConsoleAppStructDistance.exe
+D:\Labs\LabWork02\Lab03\Exercise003\ConsoleAppStructDistance\ConsoleAppStructDistance\bin\Debug\net8.0\ConsoleAppStructDistance.deps.json
+D:\Labs\LabWork02\Lab03\Exercise003\ConsoleAppStructDistance\ConsoleAppStructDistance\bin\Debug\net8.0\ConsoleAppStructDistance.runtimeconfig.json
+D:\Labs\LabWork02\Lab03\Exercise003\ConsoleAppStructDistance\ConsoleAppStructDistance\bin\Debug\net8.0\ConsoleAppStructDistance.dll
+D:\Labs\LabWork02\Lab03\Exercise003\ConsoleAppStructDistance\ConsoleAppStructDistance\bin\Debug\net8.0\ConsoleAppStructDistance.pdb
+D:\Labs\LabWork02\Lab03\Exercise003\ConsoleAppStructDistance\ConsoleAppStructDistance\obj\Debug\net8.0\ConsoleAppStructDistance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labs\LabWork02\Lab03\Exercise003\ConsoleAppStructDistance\ConsoleAppStructDistance\obj\Debug\net8.0\ConsoleAppStructDistance.AssemblyInfoInputs.cache
+D:\Labs\LabWork02\Lab03\Exercise003\ConsoleAppStructDistance\ConsoleAppStructDistance\obj\Debug\net8.0\ConsoleAppStructDistance.AssemblyInfo.cs
+D:\Labs\LabWork02\Lab03\Exercise003\ConsoleAppStructDistance\ConsoleAppStructDistance\obj\Debug\net8.0\ConsoleAppStructDistance.csproj.CoreCompileInputs.cache
+D:\Labs\LabWork02\Lab03\Exercise003\ConsoleAppStructDistance\ConsoleAppStructDistance\obj\Debug\net8.0\ConsoleAppStructDistance.sourcelink.json
+D:\Labs\LabWork02\Lab03\Exercise003\ConsoleAppStructDistance\ConsoleAppStructDistance\obj\Debug\net8.0\ConsoleAppStructDistance.dll
+D:\Labs\LabWork02\Lab03\Exercise003\ConsoleAppStructDistance\ConsoleAppStructDistance\obj\Debug\net8.0\refint\ConsoleAppStructDistance.dll
+D:\Labs\LabWork02\Lab03\Exercise003\ConsoleAppStructDistance\ConsoleAppStructDistance\obj\Debug\net8.0\ConsoleAppStructDistance.pdb
+D:\Labs\LabWork02\Lab03\Exercise003\ConsoleAppStructDistance\ConsoleAppStructDistance\obj\Debug\net8.0\ConsoleAppStructDistance.genruntimeconfig.cache
+D:\Labs\LabWork02\Lab03\Exercise003\ConsoleAppStructDistance\ConsoleAppStructDistance\obj\Debug\net8.0\ref\ConsoleAppStructDistance.dll
