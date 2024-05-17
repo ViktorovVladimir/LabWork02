@@ -2,10 +2,26 @@
 using System;
 
 
-namespace MySpace
+namespace MyWorkSpace
 {
     public enum AccountType { Checking, Deposit }
 
-
-    //Console.WriteLine("Hello, World!");
+    public class Program
+    {
+        public static void Main()
+        {
+            //--.
+            AccountType goldAccount = AccountType.Checking;
+            AccountType platinumAccount = AccountType.Deposit;
+            
+            //--.
+            Console.WriteLine("The Customer Account Type is {0}", goldAccount);
+            Console.WriteLine("The Customer Account Type is {0}", platinumAccount);
+        }
+    }
 }
+
+
+
+
+
