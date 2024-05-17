@@ -1,0 +1,15 @@
+D:\Labs\LabWork02\Lab03\Starter\StructType\StructType\bin\Debug\net8.0\StructType.exe
+D:\Labs\LabWork02\Lab03\Starter\StructType\StructType\bin\Debug\net8.0\StructType.deps.json
+D:\Labs\LabWork02\Lab03\Starter\StructType\StructType\bin\Debug\net8.0\StructType.runtimeconfig.json
+D:\Labs\LabWork02\Lab03\Starter\StructType\StructType\bin\Debug\net8.0\StructType.dll
+D:\Labs\LabWork02\Lab03\Starter\StructType\StructType\bin\Debug\net8.0\StructType.pdb
+D:\Labs\LabWork02\Lab03\Starter\StructType\StructType\obj\Debug\net8.0\StructType.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labs\LabWork02\Lab03\Starter\StructType\StructType\obj\Debug\net8.0\StructType.AssemblyInfoInputs.cache
+D:\Labs\LabWork02\Lab03\Starter\StructType\StructType\obj\Debug\net8.0\StructType.AssemblyInfo.cs
+D:\Labs\LabWork02\Lab03\Starter\StructType\StructType\obj\Debug\net8.0\StructType.csproj.CoreCompileInputs.cache
+D:\Labs\LabWork02\Lab03\Starter\StructType\StructType\obj\Debug\net8.0\StructType.sourcelink.json
+D:\Labs\LabWork02\Lab03\Starter\StructType\StructType\obj\Debug\net8.0\StructType.dll
+D:\Labs\LabWork02\Lab03\Starter\StructType\StructType\obj\Debug\net8.0\refint\StructType.dll
+D:\Labs\LabWork02\Lab03\Starter\StructType\StructType\obj\Debug\net8.0\StructType.pdb
+D:\Labs\LabWork02\Lab03\Starter\StructType\StructType\obj\Debug\net8.0\StructType.genruntimeconfig.cache
+D:\Labs\LabWork02\Lab03\Starter\StructType\StructType\obj\Debug\net8.0\ref\StructType.dll
