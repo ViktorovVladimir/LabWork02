@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Labs\\Lab03\\LabWork02\\Lab03\\Starter\\BankAccount\\",
+  "WorkspaceRootPath": "D:\\Labs\\LabWork02\\Lab03\\Starter\\BankAccount\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C8A44DD5-4027-413B-8943-AE57386077F2}|BankAccount\\BankAccount.csproj|d:\\labs\\lab03\\labwork02\\lab03\\starter\\bankaccount\\bankaccount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8A44DD5-4027-413B-8943-AE57386077F2}|BankAccount\\BankAccount.csproj|d:\\labs\\labwork02\\lab03\\starter\\bankaccount\\bankaccount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8A44DD5-4027-413B-8943-AE57386077F2}|BankAccount\\BankAccount.csproj|solutionrelative:bankaccount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Labs\\Lab03\\LabWork02\\Lab03\\Starter\\BankAccount\\BankAccount\\Program.cs",
+              "DocumentMoniker": "D:\\Labs\\LabWork02\\Lab03\\Starter\\BankAccount\\BankAccount\\Program.cs",
               "RelativeDocumentMoniker": "BankAccount\\Program.cs",
-              "ToolTip": "D:\\Labs\\Lab03\\LabWork02\\Lab03\\Starter\\BankAccount\\BankAccount\\Program.cs",
+              "ToolTip": "D:\\Labs\\LabWork02\\Lab03\\Starter\\BankAccount\\BankAccount\\Program.cs",
               "RelativeToolTip": "BankAccount\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-17T08:37:32.763Z",
               "EditorCaption": ""

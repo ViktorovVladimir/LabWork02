@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1xX0F3ZLGUsE0ETzdhD43jzvsHxgEYuJT4xQvCRVfrQYrC1RtozaCwwb+qqiC3hmiTftjm0jUH3YXoNGoXaN8Q==",
+  "dgSpecHash": "9t9KSB6w6HF2V0fGb7kkayuIRWnzUml0zxaUE763UktxpjV60QvrEhu4GmyT0A+HUSBHYuv5TmG51Z3rmYuLbA==",
   "success": true,
-  "projectFilePath": "D:\\Labs\\Lab03\\LabWork02\\Lab03\\Starter\\BankAccount\\BankAccount\\BankAccount.csproj",
+  "projectFilePath": "D:\\Labs\\LabWork02\\Lab03\\Starter\\BankAccount\\BankAccount\\BankAccount.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
